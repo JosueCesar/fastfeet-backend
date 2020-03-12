@@ -1,6 +1,6 @@
 # fastfeet-backend
 
-  // (O projeto ainda está em progresso)
+  - (O projeto ainda está em progresso)
   - O projeto FastFeet backend é uma api de uma transportadora para o desafio 2 do bootcamp GoStack da Rocketseat.
 
 ### Pré-requisitos
